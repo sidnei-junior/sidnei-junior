@@ -1,7 +1,6 @@
 
+<img src="https://user-images.githubusercontent.com/25608316/163558251-9d82cc64-0d3c-4e0e-9c5d-68b381c438be.gif" width="512"/>
 
-![138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d](https://user-images.githubusercontent.com/25608316/163558251-9d82cc64-0d3c-4e0e-9c5d-68b381c438be.gif)
-<hr>
 # Olá, eu sou o Sidnei! 👋
 
 
