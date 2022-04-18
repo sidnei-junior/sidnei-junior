@@ -8,6 +8,16 @@ Desenvolvedor full-stack. Tenho preferência ao desenvolvimento backend, mas nã
 
 Sou apaixonado por tecnologia e gosto sempre de aprender coisas novas e conhecer pessoas que dominem alguma tecnologia e ouvi-las falar.
 
+## :family: Meus valores
+
+
+
+<details>
+  <summary>👁️‍🗨️ De olho no próximo nível</summary>
+  
+ > Estou sempre buscando formas de melhorar quem sou, tecnicamente, profissionalmente e pessoalmente. Cada experiência que vivencio ponho um olhar atento de como posso extrair crescimento e aprendizado dela.
+  
+</details>
 
 ## 🔗 Links
 
