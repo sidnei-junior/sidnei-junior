@@ -8,17 +8,6 @@ Desenvolvedor full-stack. Tenho preferência ao desenvolvimento backend, mas nã
 
 Sou apaixonado por tecnologia e gosto sempre de aprender coisas novas e conhecer novas pessoas da área para trocar ideia.
 
-## :family: Meus valores
-
-
-
-<details>
-  <summary>👁️‍🗨️ De olho no próximo nível</summary>
-  
- > Estou sempre buscando formas de melhorar quem sou, tecnicamente, profissionalmente e pessoalmente. Cada experiência que vivencio ponho um olhar atento de como posso extrair crescimento e aprendizado dela.
-  
-</details>
-
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidneijr/)
