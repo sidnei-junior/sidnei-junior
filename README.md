@@ -5,7 +5,7 @@
 
 # Olá, me chamo Sidnei! 🚀
 
-Desenvolvedor full-stack. Tenho preferência ao desenvolvimento backend, mas não me imponho barreira, eu busco e aprendo a tecnologia que resolve o problema do momento.
+Desenvolvedor full-stack. Tenho preferência ao desenvolvimento backend e eu busco e aprendo a tecnologia que resolve o problema do momento.
 
 Sou apaixonado por tecnologia e gosto sempre de aprender coisas novas e conhecer novas pessoas da área para trocar ideia.
 
