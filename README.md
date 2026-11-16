@@ -19,6 +19,7 @@
 + React on the frontend when the job calls for it
 + Into Clean Architecture, SOLID, TDD and well-tested code
 + Mechatronics Engineer (UFRN) · IT technician (IFRN) · OBMEP medalist
++ Currently learning → see my learning map below
 + Open to new opportunities, remote or hybrid
 ```
 
@@ -31,6 +32,7 @@
 + React no frontend quando o projeto pede
 + Curto Clean Architecture, SOLID, TDD e código bem testado
 + Engenheiro Mecatrônico (UFRN) · Técnico em Informática (IFRN) · Medalhista OBMEP
++ Aprendendo agora → veja meu mapa de estudos abaixo
 + Aberto a novas oportunidades, remoto ou híbrido
 ```
 
@@ -93,6 +95,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=50FA7B)](https://www.linkedin.com/in/sidneijr/)
 [![Email](https://img.shields.io/badge/Email-282A36?style=for-the-badge&logo=gmail&logoColor=50FA7B)](mailto:sidnei.ifrn@gmail.com)
+[![Learning Map](https://img.shields.io/badge/Learning_Map-282A36?style=for-the-badge&logo=roadmapdotsh&logoColor=50FA7B)](https://personal-learning-map.vercel.app/)
 [![Spotify](https://img.shields.io/badge/My_playlist-282A36?style=for-the-badge&logo=spotify&logoColor=50FA7B)](https://open.spotify.com/playlist/3FcpJesloHvI9jXROK0ecy)
 
 <div align="center">
