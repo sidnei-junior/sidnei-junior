@@ -20,7 +20,7 @@
 - Into Clean Architecture, SOLID, TDD and well-tested code
 - Mechatronics Engineer (UFRN) · IT technician (IFRN) · OBMEP medalist
 - Portfolio → [sidnei-junior.github.io](https://sidnei-junior.github.io/)
-- Currently learning → see my learning map below
+- Currently learning → [Personal learning map](https://personal-learning-map.vercel.app/)
 - **Open to new opportunities**, remote or hybrid
 
 <details>
@@ -32,7 +32,7 @@
 - Curto Clean Architecture, SOLID, TDD e código bem testado
 - Engenheiro Mecatrônico (UFRN) · Técnico em Informática (IFRN) · Medalhista OBMEP
 - Portfólio → [sidnei-junior.github.io](https://sidnei-junior.github.io/)
-- Aprendendo agora → veja meu mapa de estudos abaixo
+- Aprendendo agora → [Mapa pessoal de aprendizados](https://personal-learning-map.vercel.app/)
 - **Aberto a novas oportunidades**, remoto ou híbrido
 
 </details>
