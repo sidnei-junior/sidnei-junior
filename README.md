@@ -6,6 +6,7 @@
 
 <img src="https://img.shields.io/badge/status-open_to_work-50FA7B?style=for-the-badge&labelColor=282A36" alt="Open to work" />
 <img src="https://img.shields.io/badge/location-RN_·_Brazil-BD93F9?style=for-the-badge&labelColor=282A36" alt="Location" />
+<a href="https://sidnei-junior.github.io/"><img src="https://img.shields.io/badge/portfolio-sidnei--junior.github.io-FFB86C?style=for-the-badge&labelColor=282A36" alt="Portfolio" /></a>
 
 </div>
 
@@ -19,6 +20,7 @@
 + React on the frontend when the job calls for it
 + Into Clean Architecture, SOLID, TDD and well-tested code
 + Mechatronics Engineer (UFRN) · IT technician (IFRN) · OBMEP medalist
++ Portfolio → https://sidnei-junior.github.io
 + Currently learning → see my learning map below
 + Open to new opportunities, remote or hybrid
 ```
@@ -32,6 +34,7 @@
 + React no frontend quando o projeto pede
 + Curto Clean Architecture, SOLID, TDD e código bem testado
 + Engenheiro Mecatrônico (UFRN) · Técnico em Informática (IFRN) · Medalhista OBMEP
++ Portfólio → https://sidnei-junior.github.io
 + Aprendendo agora → veja meu mapa de estudos abaixo
 + Aberto a novas oportunidades, remoto ou híbrido
 ```
@@ -93,6 +96,7 @@
 
 ### `$ ./contact.sh`
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-282A36?style=for-the-badge&logo=githubpages&logoColor=50FA7B)](https://sidnei-junior.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=50FA7B)](https://www.linkedin.com/in/sidneijr/)
 [![Email](https://img.shields.io/badge/Email-282A36?style=for-the-badge&logo=gmail&logoColor=50FA7B)](mailto:sidnei.ifrn@gmail.com)
 [![Learning Map](https://img.shields.io/badge/Learning_Map-282A36?style=for-the-badge&logo=roadmapdotsh&logoColor=50FA7B)](https://personal-learning-map.vercel.app/)
